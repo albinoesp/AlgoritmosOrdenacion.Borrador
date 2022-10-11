@@ -33,6 +33,7 @@ public class ordenacionMain {
                 array = SelectionSort.SelectionClass(array);
                 break;
             case 3: //InsertionSort
+                array = InsertionSort.InsertionClass(array);
                 break;
             case 4: //BubbleSort
                 break;
